@@ -7,11 +7,11 @@
 </p>
 
 <p align="left">
-  ⚡ Skills: <strong>: HTML, CSS, JavaScript, ReactJS, Bootstrap and UI Design. </strong> 
+  ⚡ Skills: <strong>: HTML, CSS, JavaScript, jQuery, Bootstrap and UI Design. </strong> 
 </p>
 
 <p align="left">
-  💼 Tools: <strong>VSCODE, PhotoShop, Git, GitHub.</strong>
+  💼 Tools: <strong>VSCODE, Photoshop, Git, GitHub.</strong>
 </p>
 
 <p align="left">
