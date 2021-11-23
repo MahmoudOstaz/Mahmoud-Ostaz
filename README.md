@@ -2,7 +2,7 @@
 <img src="https://github.com/Mahmoud-Ostaz/Mahmoud-Ostaz/blob/main/computer-illustration.png?raw=true" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
- My name is ✨ _special_ ✨Mahmoud Ostaz, I am a developer of <strong>Front-End</strong> and <strong>User Interface Designer<strong>. <br>
+ My name is ✨Mahmoud Ostaz✨ , I am a developer of <strong>Front-End</strong> and <strong>User Interface Designer<strong>. <br>
      I am available for freelance/working, if you need to hire my service please contact me.
 </p>
 
